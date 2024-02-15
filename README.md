@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chika
 - 👀 I’m interested in machine learning research
-- 🌱 I’m currently researching on generalizable computer vision models 
+- 🌱 I’m currently researching on generalizable computer vision and language foundation models 
 - 💞️ I’m looking to collaborate on exciting, profitable machine learning research projects
 - 📫 How to reach me chikap421@gmail.com
 
