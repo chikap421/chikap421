@@ -1,0 +1,45 @@
+plot.py
+teaser_plot.py
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+# Ignore virtual environment directories
+venv/
+# Ignore log files
+*.log
+# Ignore data files
+data/
+# Ignore output files
+output/
+# Ignore configuration files
+config.json
+# Ignore temporary files
+*.tmp
+# Ignore coverage reports
+coverage/
+# Ignore build directories
+build/
+# Ignore distribution files
+dist/
+# Ignore documentation files
+docs/
+# Ignore test output files
+test_output/
+# Ignore IDE specific files
+.idea/
+# Ignore system files
+.DS_Store
+# Ignore environment files
+.env
+# Ignore Docker files
+Dockerfile
+# Ignore Docker Compose files
+docker-compose.yml
+# Ignore Kubernetes files
+kubernetes/
+# Ignore secrets files
+secrets/
+# Ignore cache directories
+.cache/             
