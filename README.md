@@ -20,7 +20,7 @@
 
 ---
 
-3) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks*
+3) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks* <br>
 📍 EMNLP 2024 · [📄 Paper](https://aclanthology.org/2024.findings-emnlp.793/) · [🧠 Code](https://github.com/chikap421/AfriInstruct)
 
 <div align="center">
@@ -29,12 +29,12 @@
 
 ---
 
-4) **CATAR**: *Robust Autoregressive Image and Video Generation via Structured Corruption*  
+4) **CATAR**: *Robust Autoregressive Image and Video Generation via Structured Corruption* <br>  
 📍 ICLR 2026 (ongoing)
 
 ---
 
-5) **RAVEN**: *Robust Video LLM Adaptation via Structured Corruption* 
+5) **RAVEN**: *Robust Video LLM Adaptation via Structured Corruption* <br> 
 📍 CVPR 2026 (ongoing)
 
 ---
