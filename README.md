@@ -2,8 +2,8 @@
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
-1) **CAT-LVDM**: *Corruption-Aware Training of Latent Video Diffusion Models* for robust text-to-video generation  
-📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
+1) **CAT-LVDM**: *Robust Video Diffusion via Structured Corruption*
+📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main) · [🤗 Poster](https://github.com/chikap421/catlvdm/blob/main/assets/poster_acvss25_CAT-LVDM.pdf) 
 
 <div align="center">
   <img src="assets/catlvdm.png" width="500"/>
@@ -29,13 +29,13 @@
 
 ---
 
-4) **Auto-regressive Video Generation**: *Corruption-aware training of autoregressive models* for robust generation  
-📍 ICLR 2026 (to be submitted)
+4) **CATAR**: *Robust Autoregressive Image and Video Generation via Structured Corruption*  
+📍 ICLR 2026 (ongoing)
 
 ---
 
-5) **Robust Multimodal Video-Language Models**: Side-channel fusion of corrupted inputs  
-📍 CVPR 2026 (to be submitted)
+5) **RAVEN**: *Robust Video LLM Adaptation via Structured Corruption* 
+📍 CVPR 2026 (ongoing)
 
 ---
 
