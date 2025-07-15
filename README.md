@@ -6,7 +6,7 @@
 📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main) · [🖼️ Poster](https://github.com/chikap421/catlvdm/blob/main/assets/poster_acvss25_CAT-LVDM.pdf)
 
 <div align="center">
-  <img src="assets/catlvdm.png" width="500"/>
+  <img src="assets/poster_acvss25_CAT-LVDM.jpg" width="500"/>
 </div>
 
 ---
