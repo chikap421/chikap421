@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
 1) **CAT-LVDM**: *Robust Video Diffusion via Structured Corruption*
-📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main) · [🤗 Poster](https://github.com/chikap421/catlvdm/blob/main/assets/poster_acvss25_CAT-LVDM.pdf) 
+📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main) · [🖼️ Poster](https://github.com/chikap421/catlvdm/blob/main/assets/poster_acvss25_CAT-LVDM.pdf)
 
 <div align="center">
   <img src="assets/catlvdm.png" width="500"/>
@@ -11,7 +11,7 @@
 
 ---
 
-2) **VideoSAM**: A large vision foundation model for **high-speed video segmentation**  
+2) **VideoSAM**: *A large vision foundation model for high-speed video segmentation**  
 📍 IEEE SSD 2025 · [📄 arXiv](https://arxiv.org/abs/2410.21304) · [🧠 Code](https://github.com/chikap421/videosam)
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-3) **AfriInstruct**: Instruction tuning of African languages for diverse NLP tasks  
+3) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks*
 📍 EMNLP 2024 · [📄 Paper](https://aclanthology.org/2024.findings-emnlp.793/) · [🧠 Code](https://github.com/chikap421/AfriInstruct)
 
 <div align="center">
