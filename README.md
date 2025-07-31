@@ -27,15 +27,6 @@
   <img src="assets/afriinstruct_teaser.png" width="500"/>
 </div>
 
----
-
-4) **CATAR**: *Robust Autoregressive Image and Video Generation via Structured Corruption* <br>  
-📍 ICLR 2026 (ongoing)
-
----
-
-5) **RAVEN**: *Robust Video LLM Adaptation via Structured Corruption* <br> 
-📍 CVPR 2026 (ongoing)
 
 ---
 
