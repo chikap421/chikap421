@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋 I'm Chika Maduabuchi, an ML researcher working on video generation and understanding</h3>
+<h3 align="left">Hi 👋 I'm Chika Maduabuchi, an AI researcher working on video generation and understanding</h3>
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
