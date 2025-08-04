@@ -11,7 +11,7 @@
 
 ---
 
-2) **VideoSAM**: *A large vision foundation model for high-speed video segmentation** <br>
+2) **VideoSAM**: *A large vision foundation model for high-speed video segmentation* <br>
 📍 IEEE SSD 2025 · [📄 arXiv](https://arxiv.org/abs/2410.21304) · [🧠 Code](https://github.com/chikap421/videosam)
 
 <div align="center">
