@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Chika Maduabuchi — AI researcher in applied ML, content generation & understanding.</h3>
+<h3 align="left">👋 Hi, I'm Chika Maduabuchi — AI researcher in applied ML, image/video generation & understanding.</h3>
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
