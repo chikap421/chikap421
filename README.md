@@ -10,8 +10,16 @@
 </div>
 
 ---
+2) **ML4Solar**: *Continental Solar Potential Evaluation Using Machine Learning* <br>
+📍 NeurIPS 2025 TCC Workshop (under review) · [📄 Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171954) · [🧠 Code](https://github.com/chikap421/ml4solar)
 
-2) **VideoSAM**: *A large vision foundation model for high-speed video segmentation* <br>
+<div align="center">
+  <img src="assets/resized_Best_Models_All (1).png" width="500"/>
+</div>
+
+---
+
+3) **VideoSAM**: *A large vision foundation model for high-speed video segmentation* <br>
 📍 IEEE SSD 2025 · [📄 arXiv](https://arxiv.org/abs/2410.21304) · [🧠 Code](https://github.com/chikap421/videosam)
 
 <div align="center">
@@ -20,7 +28,7 @@
 
 ---
 
-3) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks* <br>
+4) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks* <br>
 📍 EMNLP 2024 · [📄 Paper](https://aclanthology.org/2024.findings-emnlp.793/) · [🧠 Code](https://github.com/chikap421/AfriInstruct)
 
 <div align="center">
