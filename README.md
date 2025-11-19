@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
 1) **CAT-LVDM**: *Robust Video Diffusion via Structured Corruption* <br>
-📍 NeurIPS 2025 (under review) · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
+· [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
 
 <div align="center">
   <img src="assets/catlvdm.png" width="500"/>
@@ -11,7 +11,7 @@
 
 ---
 2) **ML4Solar**: *Continental Solar Potential Evaluation Using Machine Learning* <br>
-📍 NeurIPS 2025 TCC Workshop (under review) · [📄 Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171954) · [🧠 Code](https://github.com/chikap421/ml4solar)
+· [📄 Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171954) · [🧠 Code](https://github.com/chikap421/ml4solar)
 
 <div align="center">
   <img src="assets/resized_Best_Models_All (1).png" width="500"/>
