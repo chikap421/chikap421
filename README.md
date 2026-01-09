@@ -7,7 +7,7 @@ I am a Ph.D. Researcher at the University of California, Irvine, where I work on
 
 I received my master’s degree from the Massachusetts Institute of Technology, where I was advised by 
 <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a> and 
-<a href="https://nse.mit.edu/people/ericmoore-jossou/" target="_blank">Eric Moore Jossou</a>. 
+<a href="https://nse.mit.edu/people/ericmoore-jossou/" target="_blank">Ericmoore Jossou</a>. 
 My graduate studies were supported by the 
 <a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>. 
 I am also a Senior Machine Learning Researcher at William &amp; Mary, where I work under the supervision of 
