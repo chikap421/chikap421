@@ -1,5 +1,5 @@
 <h3 align="left">
-Chika Maduabuchi — AI researcher in applied machine learning, image and video generation, and multimodal understanding.
+  Hi, I am Chika, an AI researcher in generative modelling.
 </h3>
 
 I am a Ph.D. Researcher at the University of California, Irvine, where I work on generative models, video diffusion, and multimodal learning for scientific and physical systems, advised by 
