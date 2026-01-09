@@ -1,5 +1,5 @@
 <h3 align="left">
-  Hi, I am Chika, an AI researcher in generative modelling.
+Hi, I am Chika, an AI researcher working on generative modeling, image/video synthesis, and multimodal learning.
 </h3>
 
 I am a Ph.D. Researcher at the University of California, Irvine, where I work on generative models, video diffusion, and multimodal learning for scientific and physical systems, advised by 
