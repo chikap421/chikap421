@@ -3,7 +3,7 @@ Hi, I am Chika, an AI researcher working on generative modeling, image/video syn
 </h3>
 
 I am a Ph.D. Researcher at the University of California, Irvine, where I work on generative models, video diffusion, and multimodal learning for scientific and physical systems, advised by 
-<a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoojin Won</a>.
+<a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>.
 
 I received my master’s degree from the Massachusetts Institute of Technology, where I was advised by 
 <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a> and 
