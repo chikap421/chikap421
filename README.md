@@ -15,7 +15,7 @@ I am also a Senior Machine Learning Researcher at William &amp; Mary, where I wo
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
-1) **CAT-LVDM**: *Robust Video Diffusion via Structured Corruption* <br>
+1) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
 · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
 
 <div align="center">
