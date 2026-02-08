@@ -15,19 +15,18 @@ I am also a Senior Machine Learning Researcher at William &amp; Mary, where I wo
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
-1) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
+1) **TPC-FM**: *Temporal Pair Consistency for Variance Reduced Flow Mathcing* <br>
+· [📄 arXiv](https://arxiv.org/abs/2602.04908)
+
+<div align="center">
+  <img src="assets/resized_Best_Models_All (1).png" width="500"/>
+</div>
+
+2) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
 · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
 
 <div align="center">
   <img src="assets/catlvdm.png" width="500"/>
-</div>
-
----
-2) **ML4Solar**: *Continental Solar Potential Evaluation Using Machine Learning* <br>
-· [📄 Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5171954) · [🧠 Code](https://github.com/chikap421/ml4solar)
-
-<div align="center">
-  <img src="assets/resized_Best_Models_All (1).png" width="500"/>
 </div>
 
 ---
