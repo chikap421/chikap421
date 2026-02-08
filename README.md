@@ -19,7 +19,7 @@ I am also a Senior Machine Learning Researcher at William &amp; Mary, where I wo
 · [📄 arXiv](https://arxiv.org/abs/2602.04908)
 
 <div align="center">
-  <img src="assets/resized_Best_Models_All (1).png" width="500"/>
+  <img src="assets/teaser.png" width="500"/>
 </div>
 
 2) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
