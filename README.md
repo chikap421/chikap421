@@ -9,7 +9,7 @@ My research sits at the intersection of diffusion/flow-based generative modeling
 </p>
 
 <p>
-Recent work includes: (i) <b>Temporal Pair Consistency (TPC)</b> for variance-reduced Flow Matching; (ii) <b>CAT-LVDM</b>, a corruption-aware training framework for robust text-to-video diffusion; and (iii) <b>VideoSAM</b>, a foundation-model adaptation for high-speed video segmentation.
+Recent work includes: (i) <a href="https://arxiv.org/abs/2602.04908" target="_blank">Temporal Pair Consistency (TPC)</a> for variance-reduced Flow Matching; (ii) <b>CAT-LVDM</b>, a corruption-aware training framework for robust text-to-video diffusion; and (iii) <b>VideoSAM</b>, a foundation-model adaptation for high-speed video segmentation.
 I also contribute to multilingual NLP through <b>AfriInstruct</b> (Findings of EMNLP 2024).
 </p>
 
