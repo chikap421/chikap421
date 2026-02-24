@@ -16,7 +16,9 @@ I also contribute to multilingual NLP through  <a href="https://aclanthology.org
 <p>
 Previously, I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>), where—supported by a
 <a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>—I worked on automated bubble segmentation and high-throughput analysis for thermal videos.
-I completed my B.Eng. at the University of Nigeria, Nsukka advised by <a href="https://aedjaclab.com/teaminfo/?name=Chigbo%20A.%20Mgbemene" target="_blank">Chigbo Mgbemene</a>. Subsequently I joined the World-Bank ACE-SPED as a Senior Research Engineer, working on computational optimization of solid-state energy devices, where I reported to <a href="hhttps://www.acespedunn.edu.ng/team/Prof.%20Emenike%20Chinedozi%20Ejiogu" target="_blank">Emenike Ejiogu</a> and <a href="https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1195081/dr-chigbogu-ozoegwu" target="_blank">Chigbogu Ozoegwu</a>. 
+I completed my B.Eng. at the University of Nigeria, Nsukka advised by <a href="https://aedjaclab.com/teaminfo/?name=Chigbo%20A.%20Mgbemene" target="_blank">Chigbo Mgbemene</a>. Subsequently I joined the World-Bank ACE-SPED as a Senior Research Engineer, working on computational optimization of solid-state energy devices, where I reported to <a href="https://www.acespedunn.edu.ng/team/Prof.%20Emenike%20Chinedozi%20Ejiogu" target="_blank">
+  Emenike Ejiogu
+</a> and <a href="https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1195081/dr-chigbogu-ozoegwu" target="_blank">Chigbogu Ozoegwu</a>. 
 </p>
 
 <p>
