@@ -1,17 +1,27 @@
 <h3 align="left">
-Hi, I am Chika, an AI researcher working on generative modeling, image/video synthesis, and multimodal learning.
+Hi, I’m Chika Maduabuchi — I build continuous-time generative models for scientific video and robust multimodal generation.
 </h3>
 
-I am a Ph.D. Researcher at the University of California, Irvine, where I work on generative models, video diffusion, and multimodal learning for scientific and physical systems, advised by 
+<p>
+I’m a Ph.D. researcher at the University of California, Irvine (Won Lab), advised by
 <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>.
+My research sits at the intersection of diffusion/flow-based generative modeling and scientific vision: I design training objectives and learning signals that make continuous-time models more sample-efficient, stable, and robust, and I deploy them on real physical data (especially high-speed thermal/boiling video).
+</p>
 
-I received my master’s degree from the Massachusetts Institute of Technology, where I was advised by 
-<a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a> and 
-<a href="https://nse.mit.edu/people/ericmoore-jossou/" target="_blank">Ericmoore Jossou</a>. 
-My graduate studies were supported by the 
-<a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>. Prior to this, I earned my Bachelors degree in Computational Engineering at the University of Nigeria Nsukka advised by <a href="https://aedjaclab.com/teaminfo/?name=Chigbo%20A.%20Mgbemene" target="_blank">Chigbo Mgbemene</a>. After that, I worked as a Senior Research Engineer at the World Bank ACE-SPED where I was mentored by <a href="https://www.acespedunn.edu.ng/team/Prof.%20Emenike%20Chinedozi%20Ejiogu" target="_blank">Emenike Ejiogu</a> and <a href="https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1195081/dr-chigbogu-ozoegwu" target="_blank">Chigbogu Ozoegwu</a>. 
-I am also a Senior Machine Learning Researcher at William &amp; Mary, where I work under the supervision of 
-<a href="https://jd92.wang/" target="_blank">Jindong Wang</a>.
+<p>
+Recent work includes: (i) <b>Temporal Pair Consistency (TPC)</b> for variance-reduced Flow Matching; (ii) <b>CAT-LVDM</b>, a corruption-aware training framework for robust text-to-video diffusion; and (iii) <b>VideoSAM</b>, a foundation-model adaptation for high-speed video segmentation.
+I also contribute to multilingual NLP through <b>AfriInstruct</b> (Findings of EMNLP 2024).
+</p>
+
+<p>
+Previously, I earned my S.M. at MIT (Nuclear Science & Engineering), where—supported by a
+<a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>—I worked on automated bubble segmentation and high-throughput analysis for boiling heat transfer.
+I completed my B.Eng. at the University of Nigeria, Nsukka.
+</p>
+
+<p>
+I’m always happy to connect about diffusion/flow models, video generation, scientific ML, and multimodal robustness.
+</p>
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
