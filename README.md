@@ -9,7 +9,7 @@ I received my master’s degree from the Massachusetts Institute of Technology, 
 <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a> and 
 <a href="https://nse.mit.edu/people/ericmoore-jossou/" target="_blank">Ericmoore Jossou</a>. 
 My graduate studies were supported by the 
-<a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>. 
+<a href="https://engineering.mit.edu/graduate/mathworks-fellowships" target="_blank">MathWorks Fellowship</a>. Prior to this, I earned my Bachelors degree in Computational Engineering at the University of Nigeria Nsukka advised by <a href="https://aedjaclab.com/teaminfo/?name=Chigbo%20A.%20Mgbemene" target="_blank">Chigbo Mgbemene</a>. After that, I worked as a Senior Research Engineer at the World Bank ACE-SPED where I was mentored by <a href="https://www.acespedunn.edu.ng/team/Prof.%20Emenike%20Chinedozi%20Ejiogu" target="_blank">Emenike Ejiogu</a> and <a href="https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1195081/dr-chigbogu-ozoegwu" target="_blank">Chigbogu Ozoegwu</a>. 
 I am also a Senior Machine Learning Researcher at William &amp; Mary, where I work under the supervision of 
 <a href="https://jd92.wang/" target="_blank">Jindong Wang</a>.
 
