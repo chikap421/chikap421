@@ -3,7 +3,7 @@ Hi, I’m Chika Maduabuchi — I build continuous-time generative models for sci
 </h3>
 
 <p>
-I’m a Ph.D. researcher at the University of California, Irvine (Won Lab), advised by
+I’m a Ph.D. researcher at the University of California, Irvine (<a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected" target="_blank">Won Lab</a>), advised by
 <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>.
 My research sits at the intersection of diffusion/flow-based generative modeling and scientific vision: I design training objectives and learning signals that make continuous-time models more sample-efficient, stable, and robust, and I deploy them on real physical data (especially high-speed thermal videos). I’ve also been fortunate to have the opportunity to collaborate with <a href="https://jd92.wang/" target="_blank">Jindong Wang</a> along the way.
 </p>
