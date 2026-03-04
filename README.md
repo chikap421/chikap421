@@ -37,7 +37,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 ---
 
 2) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
-· [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
+📍 ICLR 2026 - ReALM-GEN · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
 
 <div align="center">
   <img src="assets/catlvdm.png" width="500"/>
