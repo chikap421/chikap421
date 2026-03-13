@@ -9,8 +9,11 @@ My research sits at the intersection of diffusion/flow-based generative modeling
 </p>
 
 <p>
-Recent work includes: (i) <a href="https://arxiv.org/abs/2602.04908" target="_blank">Temporal Pair Consistency (TPC)</a> for variance-reduced Flow Matching; (ii) <a href="https://arxiv.org/abs/2505.21545" target="_blank">CAT-LVDM</a>, a corruption-aware training framework for robust text-to-video diffusion (ICLR 2026 - ReALM-GEN); and (iii) <a href="https://arxiv.org/abs/2410.21304" target="_blank">VideoSAM</a>, a foundation-model adaptation for high-speed video segmentation (IEEE SSD 2025).
-I also contribute to multilingual NLP through  <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank">AfriInstruct</a>,<b></b> (EMNLP 2024).
+<b>Selected research</b><br>
+• <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>: improving Flow Matching with variance-reduced continuous-time training signals.<br>
+• <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. <i>(ICLR 2026 ReALM-GEN)</i><br>
+• <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation segmentation models for high-speed scientific video. <i>(IEEE SSD 2025)</i><br>
+• <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank"><b>AfriInstruct</b></a>: multilingual instruction tuning across African languages. <i>(EMNLP 2024)</i>
 </p>
 
 <p>
