@@ -31,7 +31,17 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 
 <h3 align="left">🚀 Ongoing/Completed Projects</h3>
 
-1) **TPC-FM**: *Temporal Pair Consistency for Variance Reduced Flow Mathcing* <br>
+1) **ECFM**: *Entropy-Controlled Flow Matching for Stable and Mode-Preserving Generative Transport* <br>
+
+· [📄 arXiv](https://arxiv.org/abs/2602.22265)
+
+<div align="center">
+  <img src="assets/ecfm_teaser.png" width="500"/>
+</div>
+
+---
+
+2) **TPC-FM**: *Temporal Pair Consistency for Variance Reduced Flow Mathcing* <br>
 · [📄 arXiv](https://arxiv.org/abs/2602.04908)
 
 <div align="center">
@@ -40,7 +50,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 
 ---
 
-2) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
+3) **CAT-Video**: *Robust Video Diffusion via Structured Corruption* <br>
 📍 ICLR 2026 - ReALM-GEN · [📄 arXiv](https://arxiv.org/abs/2505.21545) · [🧠 Code](https://github.com/chikap421/catlvdm) · [🤗 Checkpoints](https://huggingface.co/Chikap421/catlvdm-checkpoints/tree/main)
 
 <div align="center">
@@ -49,7 +59,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 
 ---
 
-3) **VideoSAM**: *A large vision foundation model for high-speed video segmentation* <br>
+4) **VideoSAM**: *A large vision foundation model for high-speed video segmentation* <br>
 📍 IEEE SSD 2025 · [📄 arXiv](https://arxiv.org/abs/2410.21304) · [🧠 Code](https://github.com/chikap421/videosam)
 
 <div align="center">
@@ -58,7 +68,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 
 ---
 
-4) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks* <br>
+5) **AfriInstruct**: *Instruction tuning of African languages for diverse NLP tasks* <br>
 📍 EMNLP 2024 · [📄 Paper](https://aclanthology.org/2024.findings-emnlp.793/) · [🧠 Code](https://github.com/chikap421/AfriInstruct)
 
 <div align="center">
