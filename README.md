@@ -12,7 +12,7 @@ My research sits at the intersection of diffusion/flow-based generative modeling
 <b>Selected research</b><br>
 • <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>: improving Flow Matching with variance-reduced continuous-time training signals.<br>
 • <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. <i>(ICLR 2026 ReALM-GEN)</i><br>
-• <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation segmentation models for high-speed scientific video. <i>(IEEE SSD 2025)</i><br>
+• <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation-model adaptation for high-speed video segmentation. <i>(IEEE SSD 2025)</i><br>
 • <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank"><b>AfriInstruct</b></a>: multilingual instruction tuning across African languages. <i>(EMNLP 2024)</i>
 </p>
 
