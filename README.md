@@ -36,7 +36,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 · [📄 arXiv](https://arxiv.org/abs/2602.22265)
 
 <div align="center">
-  <img src="assets/ecfm_teaser.png" width="500"/>
+  <img src="assets/ecfm_algo.png" width="500"/>
 </div>
 
 ---
