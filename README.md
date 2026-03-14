@@ -83,4 +83,5 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 - 👨‍🎓 Google Scholar: [scholar.google.com/citations?user=YrLydoQAAAAJ](https://scholar.google.com/citations?user=YrLydoQAAAAJ&hl=en)  
 - 📧 Email: [chikap421@gmail.com](mailto:chikap421@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mchika](https://www.linkedin.com/in/mchika/)  
-- 🧠 Hugging Face: [huggingface.co/Chikap421](https://huggingface.co/Chikap421)  
+- 🧠 Hugging Face: [huggingface.co/Chikap421](https://huggingface.co/Chikap421)
+- 📄 arXiv: [arxiv.org/a/maduabuchi_c_1.html](https://arxiv.org/a/maduabuchi_c_1.html)
