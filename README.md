@@ -30,7 +30,7 @@ I completed my B.Eng. at the University of Nigeria, Nsukka advised by <a href="h
 I’m always happy to connect about diffusion/flow models, video generation, scientific ML, and multimodal robustness.
 </p>
 
-<h3 align="left">🚀 Ongoing/Completed Projects</h3>
+<h3 align="left">🚀 Research Projects</h3>
 
 1) **ECFM**: *Entropy-Controlled Flow Matching for Stable and Mode-Preserving Generative Transport* <br>
 
