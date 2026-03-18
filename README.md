@@ -38,7 +38,7 @@ I’m always happy to connect about diffusion/flow models, video generation, sci
 
 <div align="center">
 
-  <img src="assets/samples.png" width="500"/>
+  <img src="assets/evd_samples.jpg" width="500"/>
 
 </div>
 
