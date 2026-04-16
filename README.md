@@ -1,8 +1,13 @@
 <h3 align="left">
+
 Hi, I’m Chika
+
 </h3>
+
 <h3 align="left">
-I build continuous-time generative models for image/video and robust multimodal generation.
+
+I build generative models for images and video, with a focus on continuous-time modeling, multimodal learning, and robust generation.
+
 </h3>
 
 <p>
