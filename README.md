@@ -1,14 +1,8 @@
-<h3 align="left">
+<h1 align="left">Hi, I’m Chika.</h1>
 
-Hi, I’m Chika
-
-</h3>
-
-<h3 align="left">
-
-I build generative models for images and video, with a focus on continuous-time modeling, multimodal learning, and robust generation.
-
-</h3>
+<p align="left">
+I build continuous-time generative models for image and video, with a focus on multimodal learning and robust generation.
+</p>
 
 <p>
 I’m a Ph.D. researcher at the University of California, Irvine (<a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected" target="_blank">Won Lab</a>), advised by
