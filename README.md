@@ -1,5 +1,6 @@
 <h3 align="left">
-Hi, I’m Chika; I build continuous-time generative models for image/video and robust multimodal generation.
+Hi, I’m Chika
+I build continuous-time generative models for image/video and robust multimodal generation.
 </h3>
 
 <p>
