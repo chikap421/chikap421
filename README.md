@@ -57,5 +57,5 @@ I’ve also collaborated with <a href="https://jd92.wang/" target="_blank">Jindo
 <p>
 I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
 supported by a <a href="https://engineering.mit.edu/people/chika-maduabuchi" target="_blank">MathWorks Fellowship</a>,
-working on automated bubble segmentation and high-throughput analysis for thermal videos.
+working on foundation models for automated high-speed video segmentation.
 </p>
