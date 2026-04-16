@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I’m Chika.</h1>
 
 <p align="left">
-I build continuous-time generative models for image and video, with a focus on multimodal learning and robust generation.
+I build continuous-time generative models for image and video, with a focus on multimodal learning, robust generation, and cross-modal prediction.
 </p>
 
 <p>
 I’m a Ph.D. researcher at the University of California, Irvine (
 <a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected" target="_blank">Won Lab</a>
-), advised by <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>.
-My work sits at the intersection of diffusion/flow-based generative modeling and scientific vision—designing learning signals and training objectives that make continuous-time models more sample-efficient, stable, and robust.
-I’ve also collaborated with <a href="https://jd92.wang/" target="_blank">Jindong Wang</a>.
+), advised by <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>, where I work on multimodal foundation models for physical video reconstruction and cross-modal prediction.
+My research sits at the intersection of diffusion/flow-based generative modeling, multimodal learning, and scientific vision—designing learning signals and training objectives that make continuous-time models more sample-efficient, stable, and robust.
+I’ve also led research on robust multimodal video and image synthesis at William & Mary, contributed to video diffusion and multimodal R&D at Microsoft, and collaborated with <a href="https://jd92.wang/" target="_blank">Jindong Wang</a>.
 </p>
 
 <hr>
@@ -57,5 +57,8 @@ I’ve also collaborated with <a href="https://jd92.wang/" target="_blank">Jindo
 <p>
 I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
 supported by a <a href="https://engineering.mit.edu/people/chika-maduabuchi" target="_blank">MathWorks Fellowship</a>,
-working on foundation models for automated high-speed video segmentation.
+where I worked on foundation models for automated high-speed thermal video segmentation.
+Previously, I was a Senior Research Engineer at the
+<a href="https://acespedunn.edu.ng/" target="_blank">Africa Centre of Excellence for Sustainable Power and Energy Development</a>,
+working on computational numerical simulation of physical systems.
 </p>
