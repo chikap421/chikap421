@@ -55,7 +55,7 @@ I also led research on robust multimodal video and image synthesis at William & 
 <p>
 I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
 supported by a <a href="https://engineering.mit.edu/people/chika-maduabuchi" target="_blank">MathWorks Fellowship</a>,
-where I worked on foundation models for automated high-speed thermal video segmentation.
+where I worked on foundation models for automated high-speed scientific video segmentation.
 Previously, I was a Senior Research Engineer at the
 <a href="https://acespedunn.edu.ng/" target="_blank">Africa Centre of Excellence for Sustainable Power and Energy Development</a>,
 working on computational numerical simulation of physical systems.
