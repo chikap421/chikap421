@@ -17,7 +17,7 @@ I also lead research on robust multimodal video and image synthesis at William &
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>:
-    event-grounded text-to-video generation that suppresses spurious updates and improves interaction realism.
+    event-grounded text-to-video generation that suppresses spurious updates and improves interaction realism. <i>(ECCV 2026)</i>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>:
@@ -35,7 +35,7 @@ I also lead research on robust multimodal video and image synthesis at William &
   <ul>
     <li>
       <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>:
-      entropy-controlled Flow Matching for stable, mode-preserving generative transport.
+      entropy-controlled Flow Matching for stable, mode-preserving generative transport. <i>(ECCV 2026)</i>
     </li>
     <li>
       <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>:
