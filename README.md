@@ -17,7 +17,7 @@ I also lead research on robust multimodal video and image synthesis at William &
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>:
-    event-grounded text-to-video generation that suppresses spurious updates and improves interaction realism. <i>(ECCV 2026)</i>
+    event-grounded text-to-video generation with realistic interactions. <i>(ECCV 2026)</i>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>:
