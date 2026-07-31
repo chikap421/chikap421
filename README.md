@@ -14,7 +14,7 @@ I also lead research on multimodal visual generation and world models at William
 
 <h3 align="left">Highlighted papers</h3>
 
-- <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>: event-grounded text-to-video generation with realistic interactions. (<b>ECCV 2026</b>, $\color{red}{\mathbf{Oral\ Presentation}}$)
+- <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>: event-grounded text-to-video generation with realistic interactions. (<b>ECCV 2026</b>, $\color{red}{\pmb{\mathrm{Oral\ Presentation}}}$)
 
 - <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>: entropy-controlled Flow Matching for stable, mode-preserving generative transport. (<b>ECCV 2026</b>)
 
