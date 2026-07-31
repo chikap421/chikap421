@@ -22,6 +22,7 @@ I also lead research on multimodal visual generation and world models at William
 
 <details>
   <summary><b>More publications</b></summary>
+  
 - <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>: improving Flow Matching with variance-reduced continuous-time training signals.
 
 - <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation segmentation models for high-speed scientific video. (<b>IEEE SSD 2025</b>)
