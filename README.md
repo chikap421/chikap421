@@ -22,20 +22,11 @@ I also lead research on multimodal visual generation and world models at William
 
 <details>
   <summary><b>More publications</b></summary>
-  <ul>
-    <li>
-      <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>:
-      improving Flow Matching with variance-reduced continuous-time training signals.
-    </li>
-    <li>
-      <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>:
-      adapting foundation segmentation models for high-speed scientific video. <i>(IEEE SSD 2025)</i>
-    </li>
-    <li>
-      <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank"><b>AfriInstruct</b></a>:
-      multilingual instruction tuning across African languages. <i>(EMNLP 2024)</i>
-    </li>
-  </ul>
+- <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>: improving Flow Matching with variance-reduced continuous-time training signals.
+
+- <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation segmentation models for high-speed scientific video. (<b>IEEE SSD 2025</b>)
+
+- <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank"><b>AfriInstruct</b></a>: multilingual instruction tuning across African languages. (<b>EMNLP 2024</b>)
 </details>
 
 <hr>
