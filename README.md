@@ -14,21 +14,11 @@ I also lead research on multimodal visual generation and world models at William
 
 <h3 align="left">Highlighted papers</h3>
 
-<ul>
-  <li>
-    <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>:
-    event-grounded text-to-video generation with realistic interactions. <i>(ECCV 2026 Oral)</i>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>:
-    entropy-controlled Flow Matching for stable, mode-preserving generative transport. <i>(ECCV 2026)</i>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>:
-    robust text-to-video diffusion under structured corruption.
-    <i>(ICLR 2026 ReALM-GEN)</i>
-  </li>
-</ul>
+- <a href="https://arxiv.org/abs/2603.13402" target="_blank"><b>EVD</b></a>: event-grounded text-to-video generation with realistic interactions. <i>(ECCV 2026, </i>$\color{red}{\textbf{Oral Presentation}}$<i>)</i>
+
+- <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>: entropy-controlled Flow Matching for stable, mode-preserving generative transport. <i>(ECCV 2026)</i>
+
+- <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. <i>(ICLR 2026 ReALM-GEN)</i>
 
 <details>
   <summary><b>More publications</b></summary>
