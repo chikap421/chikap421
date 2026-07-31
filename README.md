@@ -18,7 +18,7 @@ I also lead research on multimodal visual generation and world models at William
 
 - <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>: entropy-controlled Flow Matching for stable, mode-preserving generative transport. (<b>ECCV 2026</b>)
 
-- <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. (<b>ICLR 2026 ReALM-GEN Workshop</b>)
+- <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. (<b>ICLR 2026,  ReALM-GEN Workshop</b>)
 
 <details>
   <summary><b>More publications</b></summary>
