@@ -7,7 +7,6 @@ I build continuous-time generative models for image and video, with a focus on m
 <p>
 I’m a Ph.D. researcher at the University of California, Irvine (<a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected" target="_blank">Won Lab</a>), advised by <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blank">Yoonjin Won</a>, where I work on multimodal foundation models for physical video generation and cross-modal prediction.
 My research spans diffusion/flow-based generative modeling, multimodal learning, and scientific vision, with an emphasis on designing learning signals and training objectives that make continuous-time models more sample-efficient, stable, and robust.
-I also lead research on multimodal visual generation and world models at William & Mary where I report to <a href="https://jd92.wang" target="_blank">Jindong Wang</a>.
 </p>
 
 <hr>
@@ -35,7 +34,7 @@ I also lead research on multimodal visual generation and world models at William
 <h3 align="left">Previously</h3>
 
 <p>
-I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
+I led research on multimodal visual generation and world models at William & Mary where I reported to <a href="https://jd92.wang" target="_blank">Jindong Wang</a>. Before that, I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
 supported by a <a href="https://engineering.mit.edu/people/chika-maduabuchi" target="_blank">MathWorks Fellowship</a>,
 where I worked on foundation models for automated high-speed scientific video segmentation.
 Previously, I was a Senior Research Engineer at the
