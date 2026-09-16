@@ -32,7 +32,6 @@ My research spans diffusion/flow-based generative modeling, multimodal learning,
 <hr>
 
 <h3 align="left">Previously</h3>
-
 <p>
 I led research on multimodal visual generation and world models at William & Mary where I reported to <a href="https://jd92.wang" target="_blank">Jindong Wang</a>. Before that, I earned my S.M. at MIT (advised by <a href="https://nse.mit.edu/people/matteo-bucci/" target="_blank">Matteo Bucci</a>),
 supported by a <a href="https://engineering.mit.edu/people/chika-maduabuchi" target="_blank">MathWorks Fellowship</a>,
