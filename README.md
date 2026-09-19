@@ -35,7 +35,7 @@ My research spans diffusion/flow-based generative modeling, multimodal learning,
 <h3 align="left">Previously</h3>
 
 <p>
-I was a Software Engineer Intern at <b>Waymo</b>, where I worked on large-scale multimodal 3D perception and scene reconstruction using multi-camera imagery and LiDAR.
+I was a PhD Software Engineer Intern at Waymo, working on large-scale multimodal 3D perception and scene reconstruction using multi-camera imagery and LiDAR.
 </p>
 
 <details>
