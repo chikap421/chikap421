@@ -31,7 +31,6 @@ My research spans diffusion/flow-based generative modeling, multimodal learning,
 
 <hr>
 
-<hr>
 
 <h3 align="left">Previously</h3>
 
