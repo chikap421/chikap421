@@ -11,6 +11,7 @@ advised by <a href="https://engineering.uci.edu/users/yoonjin-won" target="_blan
 where I develop multimodal perception and generative models for physical systems using high-speed video, infrared imaging, and acoustics.
 My work spans segmentation and temporal tracking, generative physical-field reconstruction, and physics-aware heat-flux prediction,
 with a broader focus on robust multimodal learning and cross-modal prediction.
+Previously, I was a PhD Software Engineer Intern at <b>Waymo</b>, working on large-scale multimodal 3D perception and scene reconstruction using multi-camera imagery and LiDAR.
 </p>
 
 <hr>
@@ -21,26 +22,20 @@ with a broader focus on robust multimodal learning and cross-modal prediction.
 
 - <a href="https://arxiv.org/abs/2602.22265" target="_blank"><b>ECFM</b></a>: entropy-controlled Flow Matching for stable, mode-preserving generative transport. (<b>ECCV 2026</b>)
 
-- <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. (<b>ICLR 2026,  ReALM-GEN</b>)
+- <a href="https://arxiv.org/abs/2505.21545" target="_blank"><b>CAT-LVDM</b></a>: robust text-to-video diffusion under structured corruption. (<b>ICLR 2026, ReALM-GEN</b>)
 
 <details>
   <summary><b>More publications</b></summary>
-  
+
 - <a href="https://arxiv.org/abs/2602.04908" target="_blank"><b>TPC</b></a>: improving Flow Matching with variance-reduced continuous-time training signals.
 
 - <a href="https://arxiv.org/abs/2410.21304" target="_blank"><b>VideoSAM</b></a>: adapting foundation segmentation models for high-speed scientific video. (<b>IEEE SSD 2025</b>)
 
 - <a href="https://aclanthology.org/2024.findings-emnlp.793/" target="_blank"><b>AfriInstruct</b></a>: multilingual instruction tuning across African languages. (<b>EMNLP 2024</b>)
+
 </details>
 
 <hr>
-
-
-<h3 align="left">Previously</h3>
-
-<p>
-I was a PhD Software Engineer Intern at Waymo, working on large-scale multimodal 3D perception and scene reconstruction using multi-camera imagery and LiDAR.
-</p>
 
 <details>
   <summary><b>More experience</b></summary>
