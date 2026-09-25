@@ -14,12 +14,12 @@ I’m a Ph.D. researcher at UC Irvine in the <a href="https://yoonjinwon.github.
 
 - [**EVD**](https://arxiv.org/abs/2603.13402): event-grounded video generation with realistic physical interactions. (**ECCV 2026, Spotlight**)
 - [**ECFM**](https://arxiv.org/abs/2602.22265): entropy-controlled flow matching for stable, mode-preserving generative transport. (**ECCV 2026**)
-- [**TPC**](https://arxiv.org/abs/2602.04908): variance-reduced training for efficient flow matching.
-- [**CAT-LVDM**](https://arxiv.org/abs/2505.21545): robust text-to-video diffusion under noisy conditioning. (**ICLR 2026, ReALM-GEN Workshop**)
+- [**TPC**](https://arxiv.org/abs/2602.04908): variance-reduced training for efficient flow matching. (**NeurIPS 2026**)
 
 <details>
   <summary><b>More publications</b></summary>
 
+- [**CAT-LVDM**](https://arxiv.org/abs/2505.21545): robust text-to-video diffusion under noisy conditioning. (**ICLR 2026, ReALM-GEN Workshop**)
 - [**VideoSAM**](https://arxiv.org/abs/2410.21304): adapting foundation segmentation models for high-speed scientific video. (**IEEE SSD 2025**)
 - [**AfriInstruct**](https://aclanthology.org/2024.findings-emnlp.793/): multilingual instruction tuning across African languages. (**Findings of EMNLP 2024**)
 
