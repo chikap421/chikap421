@@ -1,57 +1,24 @@
 <h1 align="left">Hi, I’m Chika.</h1>
 
 <p>
-I develop <b>generative models for images and video</b>, focusing on physical interactions, robust generation, and efficient learning with diffusion and flow matching. My broader research goal is to build <b>world models</b> that capture how scenes evolve and respond to actions.
+I develop generative models for images and video, with a focus on physical interactions, robust generation, and efficient learning with diffusion and flow matching. My broader research interest is in world models that capture how scenes evolve and respond to actions.
 </p>
 
 <p>
-I’m a Ph.D. researcher at <b>UC Irvine</b> in the <a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected">Won Lab</a>, advised by <a href="https://engineering.uci.edu/users/yoonjin-won">Yoonjin Won</a>. Previously, I was a PhD Software Engineer Intern at <b>Waymo</b>, working on large-scale multimodal 3D perception and scene reconstruction using multi-camera imagery and LiDAR, and earned my S.M. at <b>MIT</b>.
-</p>
-
-<p>
-<a href="mailto:chikap421@gmail.com">Email</a> ·
-<a href="mailto:chikap421@gmail.com?subject=CV%20request">CV on request</a> ·
-<a href="https://scholar.google.com/citations?user=YrLydoQAAAAJ">Google Scholar</a> ·
-<a href="https://www.linkedin.com/in/mchika/">LinkedIn</a>
+I’m a Ph.D. researcher at UC Irvine in the <a href="https://yoonjinwon.github.io/yoonjinwon-site/?pub=selected">Won Lab</a>, advised by <a href="https://engineering.uci.edu/users/yoonjin-won">Yoonjin Won</a>. Previously, I was a PhD Software Engineer Intern at <b>Waymo</b>, working on multimodal 3D perception and scene reconstruction. I earned my S.M. at <b>MIT</b>.
 </p>
 
 <hr>
 
-<h3 align="left">Selected Research</h3>
+<h3 align="left">Selected papers</h3>
 
-#### EVD — Event-Driven Video Generation
-**ECCV 2026 · Spotlight**
-
-Event-grounded video generation that improves physical interactions, contact stability, and persistent object states through event-gated sampling.
-
-[Paper](https://arxiv.org/abs/2603.13402) · [Code](https://github.com/chikap421/catlvdm/tree/main/evd) · [Project & video demos](https://evd-project-website.pages.dev/)
-
-<a href="https://evd-project-website.pages.dev/">
-  <img src="https://raw.githubusercontent.com/chikap421/chikap421/main/assets/evd_teaser.png" alt="Event-Driven Video Generation teaser — click to explore the project and video comparisons." width="640">
-</a>
-
-#### ECFM — Entropy-Controlled Flow Matching
-**ECCV 2026**
-
-A framework for controlling entropy along generative transport trajectories, with theoretical guarantees for mode coverage and stability.
-
-[Paper](https://arxiv.org/abs/2602.22265)
-
-#### TPC — Temporal Pair Consistency for Variance-Reduced Flow Matching
-
-Couples velocity predictions at paired timesteps to reduce training variance and improve sample quality and efficiency, without changing the model architecture, probability path, or solver.
-
-[Paper](https://arxiv.org/abs/2602.04908)
-
-#### CAT-LVDM — Corruption-Aware Training of Latent Video Diffusion Models
-**ICLR 2026 · ReALM-GEN Workshop**
-
-Robust text-to-video generation through structured, data-aligned perturbations of conditioning, with a reported 31.9% FVD reduction across three text-to-video benchmarks.
-
-[Paper](https://arxiv.org/abs/2505.21545) · [Code & samples](https://github.com/chikap421/catlvdm)
+- [**EVD**](https://arxiv.org/abs/2603.13402): event-grounded video generation with realistic physical interactions. (**ECCV 2026, Spotlight**)
+- [**ECFM**](https://arxiv.org/abs/2602.22265): entropy-controlled flow matching for stable, mode-preserving generative transport. (**ECCV 2026**)
+- [**TPC**](https://arxiv.org/abs/2602.04908): variance-reduced training for efficient flow matching.
+- [**CAT-LVDM**](https://arxiv.org/abs/2505.21545): robust text-to-video diffusion under noisy conditioning. (**ICLR 2026, ReALM-GEN Workshop**)
 
 <details>
-  <summary><b>Additional publications</b></summary>
+  <summary><b>More publications</b></summary>
 
 - [**VideoSAM**](https://arxiv.org/abs/2410.21304): adapting foundation segmentation models for high-speed scientific video. (**IEEE SSD 2025**)
 - [**AfriInstruct**](https://aclanthology.org/2024.findings-emnlp.793/): multilingual instruction tuning across African languages. (**Findings of EMNLP 2024**)
@@ -61,7 +28,7 @@ Robust text-to-video generation through structured, data-aligned perturbations o
 <hr>
 
 <details>
-  <summary><b>Research background & experience</b></summary>
+  <summary><b>More experience</b></summary>
 
 <p>
 At UC Irvine, I develop multimodal perception and generative models for physical systems using high-speed video, infrared imaging, and acoustics, with applications in segmentation and temporal tracking, physical-field reconstruction, and physics-aware heat-flux prediction.
